@@ -21,7 +21,7 @@ Deliver curated datasets for analytics and reporting
 
 The pipeline follows a layered Medallion architecture:
 
-![image alt](image_url)
+![image alt](https://github.com/oladebo/Aws-glue-pipeline/blob/218e0d76d5b5e86e89231b1e9153750a252cc52a/Screen%20Shot%202026-03-30%20at%2008.19.55.png)
 
 Bronze Layer (Raw Data)
 Stores raw JSON/CSV data as ingested from source systems.
