@@ -26,6 +26,8 @@ Silver Layer (Cleaned Data)
 Data is cleaned, transformed, and structured using AWS Glue ETL jobs.
 Gold Layer (Curated Data)
 Aggregated and business-ready datasets optimized for analytics and reporting.
+
+
 ⚙️ Technologies Used
 AWS Glue (ETL Jobs & Crawlers)
 Amazon S3 (Data Storage)
