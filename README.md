@@ -64,5 +64,3 @@ Integrate with visualization tools (e.g., dashboards)
 Add real-time data ingestion
 Implement data quality monitoring and alerting
 Optimize performance using partitioning and indexing
-
-If you want, I can also customize this README with your name, GitHub repo structure, or add diagrams section.
