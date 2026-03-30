@@ -16,9 +16,12 @@ Build an automated ETL pipeline using AWS Glue
 Implement Bronze, Silver, and Gold data layers
 Ensure data quality, consistency, and governance
 Deliver curated datasets for analytics and reporting
+
 🏗️ Architecture Overview
 
 The pipeline follows a layered Medallion architecture:
+
+![image alt](image_url)
 
 Bronze Layer (Raw Data)
 Stores raw JSON/CSV data as ingested from source systems.
