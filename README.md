@@ -43,7 +43,7 @@ AWS Glue ETL jobs transform JSON data into CSV and apply cleaning rules
 Processed data is stored in Silver and Gold layers in S3
 Final datasets are made available for reporting and analytics
 
-!image[](https://github.com/oladebo/Aws-glue-pipeline/blob/864865444e156b9a0b889bafa0adf3adaf93c10c/Screen%20Shot%202026-03-30%20at%2008.37.41.png)
+![image alt](https://github.com/oladebo/Aws-glue-pipeline/blob/864865444e156b9a0b889bafa0adf3adaf93c10c/Screen%20Shot%202026-03-30%20at%2008.37.41.png)
 
 🔐 Security & Governance
 IAM roles are used to control access to AWS resources
