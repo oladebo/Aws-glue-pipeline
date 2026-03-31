@@ -3,6 +3,7 @@ end-to-end ETL data pipeline on aws using aws glue
 
 
 📊 AWS Glue ETL Data Pipeline (Medallion Architecture)
+
 📌 Project Overview
 
 This excercise lab implements an end-to-end ETL data pipeline on AWS using AWS Glue to support scalable data warehousing and analytics.
